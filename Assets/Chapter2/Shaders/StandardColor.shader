@@ -1,4 +1,4 @@
-﻿Shader "CoockbookShaders/Chapter2/StandardColor"
+﻿Shader "CookbookShaders/Chapter2/StandardColor"
 {
     Properties
     {

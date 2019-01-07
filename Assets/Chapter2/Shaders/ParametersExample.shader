@@ -1,4 +1,4 @@
-﻿Shader "CoockbookShaders/Chapter2/ParametersExample"
+﻿Shader "CookbookShaders/Chapter2/ParametersExample"
 {
     Properties
     {

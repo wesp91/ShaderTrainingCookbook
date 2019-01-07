@@ -1,4 +1,4 @@
-﻿Shader "CoockbookShaders/Chapter3/SimpleDIffuse"
+﻿Shader "CookbookShaders/Chapter3/SimpleDIffuse"
 {
     Properties
     {
